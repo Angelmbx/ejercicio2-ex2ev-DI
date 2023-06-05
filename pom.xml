@@ -81,7 +81,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.ejercicio2examen2evdi/com.example.ejercicio2examen2evdi.HelloApplication
+                                com.example.ejercicio2examen2evdi/com.example.ejercicio2examen2evdi.VentaBilletesApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
